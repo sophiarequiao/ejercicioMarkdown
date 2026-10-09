@@ -13,7 +13,7 @@ In a dystopian near future, single people, according to the laws of The City, ar
 - **Duration:** ``119 minutes``
 - **Primary lenguaje:** ``Ènglish``
 
-### Actores
+### Cast
 |  | Actor | Personaje |
 |:----:|:-----:|:---------:|
 |<img width="100" height="143" alt="images-2" src="https://github.com/user-attachments/assets/55e158b1-7cd3-4ae1-99a4-89a92611e5cf" /> | Colin Farrel | David |
