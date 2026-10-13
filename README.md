@@ -24,8 +24,8 @@ In a dystopian near future, single people, according to the laws of The City, ar
 | <img width="100" height="143" alt="MV5BMTY4MzU2ODIzNl5BMl5BanBnXkFtZTgwMTM2OTA1NzM@ _V1_" src="https://github.com/user-attachments/assets/d82f0b46-df6e-42a7-b6f3-810f9b5a7058" /> | Olivia Colman | Hotel Manager |
 
 ### Rating
-**[IMDB](https://www.imdb.com/pt/title/tt3464902/):** ``7,1``
-**[Rotten Tomatoes](https://www.rottentomatoes.com/m/the_lobster):** ``87%``
+**[IMDB](https://www.imdb.com/pt/title/tt3464902/):** ``7,1``    
+**[Rotten Tomatoes](https://www.rottentomatoes.com/m/the_lobster):** ``87%``    
 **[Letterboxd](https://letterboxd.com/film/the-lobster/):** ``3,7``
 
 ### Photos 
